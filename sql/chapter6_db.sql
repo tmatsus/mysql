@@ -26,7 +26,7 @@ CREATE TABLE chapter6_db.table1 (
   name VARCHAR(40) ,
   dep VARCHAR(20) ,
   role VARCHAR(20) 
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `table1`
